@@ -1,0 +1,62 @@
+
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    margin-bottom: 0.25rem;
+    font-size: 0.875rem; /* Adjust font size for product details */
+    color: #666;
+  }
+  
+  .buy-btn {
+    background-color: #007bff; /* Adjust button color */
+    color: #fff;
+    border-color: #007bff;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0.5rem; /* Add some spacing above the button */
+  }
+  
+  .buy-btn:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+
+  
+  .modal-body input,
+  .modal-body textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .modal-body textarea {
+    height: 100px; /* Adjust textarea height as needed */
+  }
+  
+  .modal-body img {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    object-fit: fill;
+    margin-bottom: 0.5rem;
+  }
+  
+  .modal-body button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+    padding: 0.75rem 1.5rem; /* Adjust button padding */
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem; /* Add spacing above the button */
+  }
+  
+  .modal-body button[type="submit"]:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  

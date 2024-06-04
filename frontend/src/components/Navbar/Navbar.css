@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .nav-link:hover {
+    color: #ddd;
+  }
+  
+  .home{
+    font-family: fantasy;
+  }
